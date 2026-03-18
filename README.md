@@ -15,3 +15,4 @@ consumoMensal = (potencia * horasDia * 30) / 1000
 3. Execute:
 ```bash
 python app.py
+![resultado esperado para o código](https://github.com/IsisRV/consumo-energia/blob/main/consumo_energia.png)
